@@ -39,8 +39,6 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 window.plugin.portalWithFullResonators = function() {};
 
 window.plugin.portalWithFullResonators.highlight = function(data) {
-
-    console.log(data);
     if(data.portal.options.team != TEAM_NONE) {
         var portal_level = data.portal.options.data.level;
         var res_count = data.portal.options.data.resCount;
