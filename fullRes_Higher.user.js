@@ -1,6 +1,7 @@
 // ==UserScript==
 // @id             iitc-plugin-highlight-portals-with-full-resonators
 // @name           IITC plugin: highlight portals with full resonators
+// @author         c88tm
 // @category       Highlighter
 // @version        0.1.1.0
 // @namespace      IITC_plugin
