@@ -64,7 +64,7 @@ window.plugin.portalWithFullResonators.highlight = function(data) {
 }
 
 var setup =  function() {
-  window.addPortalHighlighter('Portals With Ful Resonators', window.plugin.portalWithFullResonators.highlight);
+  window.addPortalHighlighter('Portals With Full Resos', window.plugin.portalWithFullResonators.highlight);
 }
 
 // PLUGIN END //////////////////////////////////////////////////////////
