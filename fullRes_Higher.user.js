@@ -4,8 +4,8 @@
 // @category       Highlighter
 // @version        0.1.1.0
 // @namespace      IITC_plugin
-// @updateURL      https://github.com/c88tm/IITC_plugin/blob/master/fullRes_Higher.js
-// @downloadURL    https://github.com/c88tm/IITC_plugin/blob/master/fullRes_Higher.js
+// @updateURL      https://github.com/c88tm/IITC_plugin/raw/master/fullRes_Higher.user.js
+// @downloadURL    https://github.com/c88tm/IITC_plugin/raw/master/fullRes_Higher.user.js
 // @description    highlight portals with full resonators, and colored higher level portals
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
